@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robomates/static/css/main.08c7e1f3.chunk.css",
+    "main.js": "/Robomates/static/js/main.02c43bd5.chunk.js",
+    "main.js.map": "/Robomates/static/js/main.02c43bd5.chunk.js.map",
+    "runtime-main.js": "/Robomates/static/js/runtime-main.39b88805.js",
+    "runtime-main.js.map": "/Robomates/static/js/runtime-main.39b88805.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Robomates/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.fcd927d6.chunk.js": "/Robomates/static/js/2.fcd927d6.chunk.js",
+    "static/js/2.fcd927d6.chunk.js.map": "/Robomates/static/js/2.fcd927d6.chunk.js.map",
+    "static/js/3.5400ab60.chunk.js": "/Robomates/static/js/3.5400ab60.chunk.js",
+    "static/js/3.5400ab60.chunk.js.map": "/Robomates/static/js/3.5400ab60.chunk.js.map",
+    "index.html": "/Robomates/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Robomates/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.08c7e1f3.chunk.css.map": "/Robomates/static/css/main.08c7e1f3.chunk.css.map",
+    "static/js/2.fcd927d6.chunk.js.LICENSE.txt": "/Robomates/static/js/2.fcd927d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b88805.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.fcd927d6.chunk.js",
+    "static/css/main.08c7e1f3.chunk.css",
+    "static/js/main.02c43bd5.chunk.js"
+  ]
+}
